@@ -18,9 +18,9 @@ Happy coding!
 
 `yarn start-api`
 
-Api can be accessed at localhost:3001  
-Endpoints are as follow:  
-localhost:3001/menus/  
+Api can be accessed at localhost:3001
+Endpoints are as follow:
+localhost:3001/menus/
 localhost:3001/plates/
 
 ### Run react app locally
